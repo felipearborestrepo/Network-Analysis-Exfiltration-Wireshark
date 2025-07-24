@@ -1,5 +1,7 @@
 ### 🕵️Network Analysis with Wireshark and OSINT tools (Hawkeye from CyberDefenders.org)
 
+<img width="920" height="919" alt="png-transparent-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark" src="https://github.com/user-attachments/assets/9873f331-c355-4f58-a0f2-22dcab42cf3c" />
+
 ## 🎯 Scenario
 
 An accountant at your organization received an email containing an "invoice" download link. Suspicious network activity followed shortly after. As a SOC Analyst, your mission is to investigate the network capture file and determine if data exfiltration or malware activity occurred.
