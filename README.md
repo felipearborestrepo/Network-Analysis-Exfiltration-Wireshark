@@ -1,6 +1,6 @@
 ### 🕵️Network Analysis with Wireshark and OSINT tools (Hawkeye from CyberDefenders.org)
 
-<img width="920" height="919" alt="png-transparent-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark" src="https://github.com/user-attachments/assets/9873f331-c355-4f58-a0f2-22dcab42cf3c" />
+<img width="990" height="989" alt="R (1)" src="https://github.com/user-attachments/assets/7554d9a0-8e67-4b83-9096-d752ff4e14dc" />
 
 ## 🎯 Scenario
 
